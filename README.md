@@ -7,9 +7,10 @@
 - [ ] read book.pdf first 100 pages 3 times.
 
 ## Questions 
-Any preferrable NodeJS tutorial series?
+
 
 ```
 ask here for future refernce or whatsapp
 1) book.pdf - https://cses.fi/book/
+Any preferrable NodeJS tutorial series?
 ```
